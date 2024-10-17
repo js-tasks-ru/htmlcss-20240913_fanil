@@ -1,0 +1,31 @@
+header {
+    background-color: sandybrown;
+    text-align: center;
+    color: white;
+}
+
+nav {
+    background-color: aqua;
+}
+
+main {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+
+article {
+    background-color: darkslategray;
+    padding: 10px;
+}
+
+article:first-child {
+    margin-bottom: 8px;
+}
+
+footer {
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+}
